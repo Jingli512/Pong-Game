@@ -2,7 +2,7 @@
 //  Project.c
 //  
 //
-//  Created by Jerry Zhu on 2019-02-21.
+//  Created by Jing Li on 2019-02-21.
 //
 
 #include "Project.h"
